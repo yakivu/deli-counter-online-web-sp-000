@@ -1,9 +1,11 @@
 # Write your code here.
-"The line is currently empty"
 
-take_a_number #some method goes here 
-
-katz_deli # this is the current line of people
+katz_deli = []
+puts "The line is currently empty #{  }"
+katz_deli = []
+def take_a_number puts ("Ada", "Grace", "Kent") 
+end
+katz_deli = ["Ada", "Grace", "Kent"] # this is the current line of people
 
 puts #call out the person's name along with their position in line
 # make sure to count from 1 and not 0 
